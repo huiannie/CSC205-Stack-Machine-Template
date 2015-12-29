@@ -37,3 +37,11 @@ However, if any other valid expressions are entered, the compilation will fail b
 
 To complete this project, download the source code and rewrite the Compiler.java file so that the program may parse all expressions correctly.
 
+----
+### Links:
+
+Available on PlayStore:
+https://play.google.com/store/apps/details?id=org.csc205.template.stackmachine
+
+Demonstration video on YouTube:
+https://youtu.be/73EwTyVl9zQ
