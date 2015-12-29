@@ -27,7 +27,11 @@ Download this project and compile it in Android studio. Or download an executabl
 
 VAR * VAR - ( VAR + VAR ) and press COMPILE.
 
-The current program will convert the expression A*B-(C+D) into its postfix form and create a corresponding stack machine program, which may be stepped through by pressing consecutive RUNs.
+The current program will convert the expression A*B-(C+D) into its postfix form and create a corresponding stack machine program.
+
+At this point, enter the values of the four variables (A, B, C and D) and press RUN after each entry.
+
+Once the variables are set, the program may be stepped through by pressing consecutive RUNs.
 
 However, if any other valid expressions are entered, the compilation will fail because this project has not been completed yet.
 
