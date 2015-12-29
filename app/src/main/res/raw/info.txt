@@ -12,5 +12,5 @@ Once the variables are set, the program may be stepped through by pressing conse
 
 However, if any other valid expressions are entered, the compilation will fail because this project has not been completed yet.
 
-To complete this project, download the source code from GitHub https://github.com/huiannie/CSC205-Stack-Machine-Template, and rewrite the Compiler.java file so that the program may parse all expressions correctly.
+To complete this project, download the source code from GitHub https://github.com/huiannie/StackMachine, and rewrite the Compiler.java file so that the program may parse all expressions correctly.
 
