@@ -29,7 +29,7 @@ VAR * VAR - ( VAR + VAR ) and press COMPILE.
 
 The current program will convert the expression A*B-(C+D) into its postfix form and create a corresponding stack machine program.
 
-At this point, enter the values of the four variables (A, B, C and D) and press RUN after each entry.
+At this point, enter some numbers as the values of the four variables (A, B, C and D) and press RUN after each entry.
 
 Once the variables are set, the program may be stepped through by pressing consecutive RUNs.
 
